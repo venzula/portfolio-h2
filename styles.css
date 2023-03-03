@@ -39,4 +39,22 @@ nav ul li a:hover{
     align-items: center;
     gap: 50px;
     margin: 55px;
+    flex-wrap: wrap;
 }
+
+.main-project {
+    flex-grow: 8;
+}
+
+
+.project {
+    flex-grow: 8;
+    
+
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+
